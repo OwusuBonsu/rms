@@ -1,11 +1,19 @@
-.nav-text {
+.nav-tex {
     font-family: 'Kalam', cursive;
     font-size: large;
-    color:rgb(176, 87, 248);
+    color:rgb(176, 87, 248) !important;
     text-decoration: none;
 }
 
 .navBack {
-    color:rgb(32, 31, 27)
+    background-color:rgb(32, 31, 27);
 }
 
+.btn-login{
+    color: rgb(176, 87, 248) !important;
+}
+
+.login1{
+    border: 2px !important;
+    border-color: rgb(176, 87, 248) !important;
+}
